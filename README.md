@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./images/profile.png" width="220" alt="Khademul Islam"/>
+<img src="./images/profile.png" width="220" alt="Bayzed Alam"/>
 
-# 👋 Assalamu Alaikum, I'm Khademul Islam
+# 👋 Assalamu Alaikum, I'm Bayzed Alam
 
-### 💻 Full Stack Web Developer | 🌐 WordPress Developer | 🎨 Graphics Designer
+### 💻 Full Stack Web Developer | 💻 Web Designer 🌐 WordPress Developer 
 
 ### 🚀 Building Secure, Fast & Modern Responsive Websites
 
@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-I'm **Khademul Islam**, a passionate **Full Stack Web Developer** from **Bangladesh**.
+I'm **Bayzed Alam**, a passionate **Full Stack Web Developer** from **Bangladesh**.
 
 - 🌐 Responsive Website Development
 - 💻 Full Stack Web Development
 - ⚙️ PHP & MySQL Development
 - 🖥️ WordPress Development
-- 🎨 Graphics Design
+- 💻 Web Design
 - 🚀 Website Speed Optimization
 - 📚 Always learning new technologies
 
@@ -71,10 +71,9 @@ I'm **Khademul Islam**, a passionate **Full Stack Web Developer** from **Banglad
 
 ## 🌐 Connect With Me
 
-- 📧 Email: your@email.com
-- 🌐 Website: https://yourwebsite.com
+- 📧 Email: bayzedalam@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/yourusername
-- 📘 Facebook: https://facebook.com/yourusername
+- 📘 Facebook: https://https://www.facebook.com/?_rdc=2&_rdr
 
 ---
 
