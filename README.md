@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Bayzedalam</h1>
+<h1 align="center">Hi 👋, Bayzed Alam</h1>
 
 <h3 align="center">
 💻 Full Stack Web Developer | 💻 Web Designer | 🌐 WordPress Developer | 
@@ -111,23 +111,23 @@ My goal is to become an expert Full Stack Web Developer and create secure, moder
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Bayzedalam_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bayzedalam&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayzedalam&layout=compact&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+![](https://github-profile-trophy.vercel.app/?username=Bayzedalam&theme=algolia)
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Bayzedalam&theme=react-dark)
 
 ---
 
