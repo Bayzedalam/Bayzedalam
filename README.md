@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Bayzed Alam</h1>
+<h1 align="center">Hi 👋, Bayzedalam</h1>
 
 <h3 align="center">
 💻 Full Stack Web Developer | 💻 Web Designer | 🌐 WordPress Developer | 
