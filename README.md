@@ -6,13 +6,20 @@
 
 <p align="center">
 Building Secure, Fast & Modern Responsive Websites
-</p>
+
 
 <p align="center">
-<img src="https://img.shields.io/badge/Web%20Developer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/FOCUS-Web%20Development-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&style=for-the-badge&color=007ACC"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=007ACC"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&label=STARS&style=for-the-badge&color=007ACC"/>
+
 </p>
 
 ---
