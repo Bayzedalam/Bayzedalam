@@ -45,7 +45,7 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://x.com/twitt_login?lang=en"/>
 </a>
 
 </p>
@@ -56,7 +56,7 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,jquery,wordpress,vscode,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,jquery,wordpress,vscode"/>
 
 </p>
 
