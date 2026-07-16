@@ -1,86 +1,131 @@
-<div align="center">
+<h1 align="center">Hi 👋, Bayzed Alam</h1>
 
-<img src="https://scontent.fjsr15-1.fna.fbcdn.net/v/t39.30808-6/746327197_1774047150613111_1437962229452880570_n.jpg?stp=dst-jpg_tt6&cstp=mx1490x536&ctp=s1490x536&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeECEFzttqbCvzh5KiyTCtuJ7Xlevm2_9xnteV6-bb_3GZI6NP4gGpmsAzh8ibS7mUShhZj7MlAIUPLiHntEVsg2&_nc_ohc=mzYTPliRsckQ7kNvwEWUZBp&_nc_oc=AdqtiEV3DrfXlwyjHOx3xh-jTZ4N6ZoWvJ--T_BPUoj3iHJ6HcnjYJUgfM4LcwPFfs4&_nc_zt=23&_nc_ht=scontent.fjsr15-1.fna&_nc_gid=RZdciHlTdEM41IOjIhXHZg&_nc_ss=7b2a8&oh=00_AQB6zbNzv8550ppmY9Ebna-ygbGhpCmzO0O_JrEmmox9MA&oe=6A5E2F9F"/>
+<h3 align="center">
+💻 Full Stack Web Developer | 🌐 WordPress Developer | 🎨 Web Designer
+</h3>
 
-# 👋 Assalamu Alaikum, I'm Bayzed Alam
-
-### 💻 Full Stack Web Developer | 💻 Web Designer 🌐 WordPress Developer 
-
-### 🚀 Building Secure, Fast & Modern Responsive Websites
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge" />
+<p align="center">
+Building Secure, Fast & Modern Responsive Websites
 </p>
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Web%20Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm **Bayzed Alam**, a passionate **Full Stack Web Developer** from **Bangladesh**.
+I'm **Bayzed Alam** from Bangladesh.
 
-- 💻 Full Stack Web Development
+I specialize in
+
 - 🌐 Responsive Website Development
-- 🖥️ WordPress Development
-- 💻 Web Design
-- ⚙️ PHP & MySQL Development
+- 💻 Full Stack Web Development
+- ⚡ WordPress Development
+- 🛠 PHP & MySQL
 - 🚀 Website Speed Optimization
-- 📚 Always learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,wordpress,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+- HTML5
+- CSS3
+- Advanced PHP
+- JavaScript
+- MySQL
+- jQuery
+- Bootstrap
+- WordPress
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+---
+
+# 💼 Services
+
+✅ Responsive Website Development
+
+✅ WordPress Website
+
+✅ Business Website
+
+✅ Portfolio Website
+
+✅ School/Madrasa Website
+
+✅ Landing Page
+
+✅ E-Commerce Website
+
+✅ Website Redesign
+
+✅ Website Speed Optimization
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become an expert Full Stack Web Developer and create secure, modern, scalable and user-friendly web applications.
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/?_rdc=2&_rdr">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="bayzedalam@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophy
 
-- 📧 Email: bayzedalam@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourusername
-- 📘 Facebook: https://https://www.facebook.com/?_rdc=2&_rdr
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
 
 ---
 
-<div align="center">
+# 📈 Contribution Graph
 
-### ❤️ Thank You for Visiting My GitHub Profile
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
 
-⭐ If you like my work, please consider giving a star to my repositories!
+---
 
-</div>
+# ❤️ Support Me
+
+If you like my work, please consider giving ⭐ to my repositories.
+
+Thank you for visiting my GitHub Profile ❤️
