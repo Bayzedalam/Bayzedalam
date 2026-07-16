@@ -50,6 +50,16 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 
 ---
 
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,jquery,wordpress,vscode"/>
+
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -69,7 +79,21 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 
 ---
 
-# 💻 Tech Stack
+# 🚀 What I Do
+
+🌐 Responsive Website Development
+🛒 WordPress Development
+⚡ PHP Development
+🗄️ MySQL Database Design
+🎨 Front-end Development
+📱 Mobile Friendly UI Design
+🚀 Website Speed Optimization
+🔒 IT Infrastructure Support
+🌍 Network Administration
+
+---
+
+# ⚡ Core Skills
 
 <p align="center">
 
@@ -78,23 +102,15 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 </p>
 
 ---
-
-# 🚀 What I Do
-
-✅ Full Website Development
-
-✅ WordPress Website Design
-
-✅ PHP CRUD Application
-
-✅ Responsive Website Design
-
-✅ Landing Page Design
-
-✅ Website Speed Optimization
-
-✅ Website Maintenance
-
+# 📖 Currently Learning
+- HTML5
+- CSS3
+- Advanced PHP
+- JavaScript
+- MySQL
+- jQuery
+- Bootstrap
+- WordPress
 ---
 
 # 🔥 GitHub Streak
