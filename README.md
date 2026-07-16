@@ -22,11 +22,11 @@
 
 I'm **Bayzed Alam**, a passionate **Full Stack Web Developer** from **Bangladesh**.
 
-- 🌐 Responsive Website Development
 - 💻 Full Stack Web Development
-- ⚙️ PHP & MySQL Development
+- 🌐 Responsive Website Development
 - 🖥️ WordPress Development
 - 💻 Web Design
+- ⚙️ PHP & MySQL Development
 - 🚀 Website Speed Optimization
 - 📚 Always learning new technologies
 
