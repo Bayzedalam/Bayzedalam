@@ -1,10 +1,11 @@
 <img src="https://scontent.fjsr15-1.fna.fbcdn.net/v/t39.30808-6/746327197_1774047150613111_1437962229452880570_n.jpg?stp=dst-jpg_tt6&cstp=mx1490x536&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeECEFzttqbCvzh5KiyTCtuJ7Xlevm2_9xnteV6-bb_3GZI6NP4gGpmsAzh8ibS7mUShhZj7MlAIUPLiHntEVsg2&_nc_ohc=mzYTPliRsckQ7kNvwEWUZBp&_nc_oc=AdqtiEV3DrfXlwyjHOx3xh-jTZ4N6ZoWvJ--T_BPUoj3iHJ6HcnjYJUgfM4LcwPFfs4&_nc_zt=23&_nc_ht=scontent.fjsr15-1.fna&_nc_gid=YXYXuuLOxdUK1uk--0zcKQ&_nc_ss=7b2a8&oh=00_AQCZ1UQ81XdFBit4kKsEWdnLbvdwU5jZms7EuZtzVxB4Pg&oe=6A5E2F9F">
 
-<h1 align="center">Hi 👋, I'm Bayzed Alam</h1>
+<h1 align="center">Hi, I'm Bayzed Alam</h1>
 
 <h3 align="center">
 Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 </h3>
+<h2 align="center"> Building Secure IT Infrastructure & Modern Responsive Web Solutions</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Developer;PHP+Developer;Frontend+Developer;Always+Learning+New+Technologies" />
