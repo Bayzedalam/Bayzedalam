@@ -31,9 +31,7 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 <!-- --- -->
 💫 About Me
 
-I'm **Bayzed Alam**
-
-<p>a Web Designer and Full Stack Web Developer from Bangladesh. I specialize in PHP, MySQL, WordPress, and modern web technologies, with a passion for creating secure, responsive, and high-performance websites.</p>
+<p>I'm **Bayzed Alam** a Web Designer and Full Stack Web Developer from Bangladesh. I specialize in PHP, MySQL, WordPress, and modern web technologies, with a passion for creating secure, responsive, and high-performance websites.</p>
 
 ---
 ### Highlights
