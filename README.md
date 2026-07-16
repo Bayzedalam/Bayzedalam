@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Bayzed Alam</h1>
 
 <h3 align="center">
-💻 Full Stack Web Developer | 🌐 WordPress Developer | 🎨 Web Designer
+💻 Full Stack Web Developer | 💻 Web Designer | 🌐 WordPress Developer | 
 </h3>
 
 <p align="center">
