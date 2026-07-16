@@ -1,138 +1,81 @@
-<h1 align="center">Hi 👋, Bayzed Alam</h1>
+<h1 align="center">Hi 👋, I'm Bayzed Alam</h1>
 
 <h3 align="center">
-💻 Full Stack Web Developer | 💻 Web Designer | 🌐 WordPress Developer | 
+Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 </h3>
 
 <p align="center">
-Building Secure, Fast & Modern Responsive Websites
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FOCUS-Web%20Development-007ACC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&style=for-the-badge&color=007ACC"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=007ACC"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&label=STARS&style=for-the-badge&color=007ACC"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Developer;PHP+Developer;Frontend+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I'm **Bayzed Alam** from Bangladesh.
+## 💫 About Me
 
-I specialize in
+✨ Hi, I'm **Bayzed Alam**
 
-- 🌐 Responsive Website Development
-- 💻 Full Stack Web Development
-- ⚡ WordPress Development
-- 🛠 PHP & MySQL
-- 🚀 Website Speed Optimization
+💻 Full Stack Web Developer
 
----
+🎨 Web Designer
 
-# 🚀 Tech Stack
+⚡ WordPress Expert
 
-<p align="center">
+🚀 PHP & MySQL Developer
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,wordpress,git,github,vscode"/>
+📱 Responsive Website Designer
 
-</p>
+🔥 Passionate about building modern websites with clean UI and optimized performance.
+
+🌱 Currently learning Laravel & Advanced JavaScript.
 
 ---
 
-# 📚 Currently Learning
-
-- HTML5
-- CSS3
-- Advanced PHP
-- JavaScript
-- MySQL
-- jQuery
-- Bootstrap
-- WordPress
-
----
-
-# 💼 Services
-
-✅ Responsive Website Development
-
-✅ WordPress Website
-
-✅ Business Website
-
-✅ Portfolio Website
-
-✅ School/Madrasa Website
-
-✅ Landing Page
-
-✅ E-Commerce Website
-
-✅ Website Redesign
-
-✅ Website Speed Optimization
-
----
-
-# 🎯 Career Goal
-
-My goal is to become an expert Full Stack Web Developer and create secure, modern, scalable and user-friendly web applications.
-
----
-
-# 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/?_rdc=2&_rdr">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<a href="mailto:bayzedalam@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="bayzedalam@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=Bayzedalam_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bayzedalam&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,jquery,wordpress,vscode,git,github"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayzedalam&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=Bayzedalam&theme=algolia)
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 🚀 What I Do
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Bayzedalam&theme=react-dark)
+✅ Full Website Development
+
+✅ WordPress Website Design
+
+✅ PHP CRUD Application
+
+✅ Responsive Website Design
+
+✅ Landing Page Design
+
+✅ Website Speed Optimization
+
+✅ Website Maintenance
 
 ---
-
-# ❤️ Support Me
-
-If you like my work, please consider giving ⭐ to my repositories.
-
-Thank you for visiting my GitHub Profile ❤️
