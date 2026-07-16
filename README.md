@@ -44,10 +44,9 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://x.com/twitt_login?lang=en"/>
+<a href="https://x.com/twitt_login?lang=en">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
 </p>
 
 ---
