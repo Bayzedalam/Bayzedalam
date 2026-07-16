@@ -99,18 +99,6 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 
 ---
 
-# 📊 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bayzedalam&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bayzedalam&theme=tokyonight"/>
-
-</p>
-
----
-
 # 👀 Visitor Counter
 
 <p align="center">
