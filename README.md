@@ -5,12 +5,29 @@
 <h3 align="center">
 Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 </h3>
-<h4 align="center"> Building Secure IT Infrastructure & Modern Responsive Web Solutions</h4>
+<h5 align="center"> Building Secure IT Infrastructure & Modern Responsive Web Solutions</h5>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Developer;PHP+Developer;Frontend+Developer;Always+Learning+New+Technologies" />
 </p>
+---
+<p align="center">
 
+<img src="https://img.shields.io/badge/FOCUS-4b4b4b?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-0b84d8?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/WORDPRESS-4b4b4b?style=flat-square&logo=wordpress&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EXPERT-0b84d8?style=flat-square"/>
+
+<img src="https://komarev.com/ghpvc/?username=Bayzedalam&label=PROFILE%20VIEWS&style=flat-square&color=0b84d8"/>
+
+<img src="https://img.shields.io/github/followers/Bayzedalam?label=FOLLOWERS&style=flat-square&color=0b84d8"/>
+
+<img src="https://img.shields.io/github/stars/Bayzedalam?label=STARS&style=flat-square&color=0b84d8"/>
+
+</p>
 ---
 
 ## 💫 About Me
