@@ -5,7 +5,7 @@
 <h3 align="center">
 Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 </h3>
-<h2 align="center"> Building Secure IT Infrastructure & Modern Responsive Web Solutions</h2>
+<h4 align="center"> Building Secure IT Infrastructure & Modern Responsive Web Solutions</h4>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Developer;PHP+Developer;Frontend+Developer;Always+Learning+New+Technologies" />
