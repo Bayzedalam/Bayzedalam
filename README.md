@@ -28,8 +28,8 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 
 </p>
 <hr>
----
-💫 About Me
+<!-- --- -->
+# 💫 About Me
 
 I'm **Bayzed Alam**
 
@@ -48,23 +48,16 @@ I'm **Bayzed Alam**
 🌱 Currently learning Laravel & Advanced JavaScript.
 
 ---
-Highlights
+### Highlights
 
-    🌐 Web Design
-
-    🌐 Full Stack Web Developer
-    
-    ⚙️ WordPress Developer
-    
-    📚 Currently learning HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySQL, WordPress.
-    
-    💬 Ask me about Web Design,Web Development,WordPress Development,Web Application
-    
-    👨‍💻 All of my projects are available at https://github.com/Bayzedalam
-    
-    📧 How to reach me bayzedalam@gmail.com.com
-    
-    📄 Know about my experiences
+- 🌐 Web Design
+- 💻 Full Stack Web Developer
+- ⚙️ WordPress Developer
+- 📚 Currently learning HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySQL, WordPress.
+- 💬 Ask me about Web Design, Web Development, WordPress Development, PHP, MySQL, Web Applications.
+- 👨‍💻 All of my projects are available at **https://github.com/Bayzedalam**
+- 📧 How to reach me **bayzedalam@gmail.com**
+- 📄 Know about my experiences.
 ---
 # 💻 Tech Stack
 
