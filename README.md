@@ -10,7 +10,7 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Developer;PHP+Developer;Frontend+Developer;Always+Learning+New+Technologies" />
 </p>
----
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/FOCUS-4b4b4b?style=flat-square"/>
@@ -28,7 +28,7 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 <img src="https://img.shields.io/github/stars/Bayzedalam?label=STARS&style=flat-square&color=0b84d8"/>
 
 </p>
----
+
 
 ## 💫 About Me
 
