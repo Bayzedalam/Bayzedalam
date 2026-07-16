@@ -10,21 +10,22 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Developer;PHP+Developer;Frontend+Developer;Always+Learning+New+Technologies" />
 </p>
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/FOCUS-4b4b4b?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-0b84d8?style=flat-square"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-007ACC?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/WORDPRESS-4b4b4b?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WORDPRESS-555555?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/EXPERT-0b84d8?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXPERT-007ACC?style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=Bayzedalam&label=PROFILE%20VIEWS&style=flat-square&color=0b84d8"/>
+<img src="https://komarev.com/ghpvc/?username=Bayzedalam&label=PROFILE%20VIEWS&style=for-the-badge&color=007ACC"/>
 
-<img src="https://img.shields.io/github/followers/Bayzedalam?label=FOLLOWERS&style=flat-square&color=0b84d8"/>
+<img src="https://img.shields.io/github/followers/Bayzedalam?label=FOLLOWERS&style=for-the-badge&color=007ACC"/>
 
-<img src="https://img.shields.io/github/stars/Bayzedalam?label=STARS&style=flat-square&color=0b84d8"/>
+<img src="https://img.shields.io/github/stars/Bayzedalam?label=STARS&style=for-the-badge&color=007ACC"/>
 
 </p>
 <hr>
