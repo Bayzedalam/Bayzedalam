@@ -7,9 +7,9 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 </h3>
 <h5 align="center"> Building Secure IT Infrastructure & Modern Responsive Web Solutions</h5>
 
-<p align="center">
+<h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Developer;PHP+Developer;Frontend+Developer;Always+Learning+New+Technologies" />
-</p>
+</h2>
 
 <p align="center">
 
@@ -82,13 +82,21 @@ Web Designer | Full Stack Web Developer | WordPress Developer | PHP Developer
 # 🚀 What I Do
 
 🌐 Responsive Website Development
+
 🛒 WordPress Development
+
 ⚡ PHP Development
+
 🗄️ MySQL Database Design
+
 🎨 Front-end Development
+
 📱 Mobile Friendly UI Design
+
 🚀 Website Speed Optimization
+
 🔒 IT Infrastructure Support
+
 🌍 Network Administration
 
 ---
